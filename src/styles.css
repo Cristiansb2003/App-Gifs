@@ -6,3 +6,7 @@ html, body{
     min-height: 100vh;
     min-width: 180px;
 }
+#cerrar{
+    color: aliceblue;
+    cursor: pointer;
+}
